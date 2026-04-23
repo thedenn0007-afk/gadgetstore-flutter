@@ -1,8 +1,6 @@
 // lib/utils/constants.dart
 class AppConstants {
-  static const String baseUrl = 'http://localhost:3000/api';
-  // Change to your deployed URL:
-  // static const String baseUrl = 'https://your-backend.railway.app/api';
+  static const String baseUrl = 'https://gadgetstore-backend-ilo2.onrender.com/api';
   
   static const String tokenKey = 'auth_token';
   static const String userKey = 'user_data';
